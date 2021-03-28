@@ -1,1 +1,13 @@
-site_name: ebxcto created
+site_name: 教程
+repo_url: https://baidu.com
+site_description: if you see this , its normal 
+site_author: superhan
+copyright: created by superhan by 2021
+nav:
+    - About: About.md
+    - Index: index.md
+    - 'Search': 'https://www.baidu.com'
+    - Config: 
+        - 'install': 'config/install.md'
+        - 'config': 'config/config.md'
+

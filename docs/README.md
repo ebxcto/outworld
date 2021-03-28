@@ -4,3 +4,19 @@
 
 免费看 [油管视频](https://muddy-smoke-5d5e.beihuolang.workers.dev/) 
 
+### 新建项目
+```js
+mkdocs new project
+```
+
+### 本地启动项目
+```js
+mkdocs serve
+```
+
+### 项目打包
+```js
+mkdocs build 
+```
+
+
