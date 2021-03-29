@@ -1,11 +1,12 @@
 # About
 
-This is the struggle of my life 
+Qv2ray is a greate clinet . 
 
-##  Category 2
+##  Install
 
-The story of my life part 2 
+官方下载地址  [Qv2ray 客户端](https://github.com/Qv2ray/Qv2ray/releases) 
 
-## Conclusion
+## Add node 
 
-It was a struggle . 
+点击客户端，新建即可添加节点。支持`vmess`  `trojan` 等多种协议。
+
